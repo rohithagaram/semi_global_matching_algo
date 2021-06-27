@@ -1,4 +1,4 @@
-function [] = How2RunSGMWrapper()
+function [] = sgm_algo()
 % Compute disparity map with semi global matching algorithm.
 % "Heiko Hirschmuller. Stereo processing by semiglobal matching and mutual information. 
 %   Pattern Analysis and Machine Intelligence, IEEE Transactions on, 30(2):328�341, 2008."
