@@ -1,1 +1,3 @@
-# semi_global_matching_algo
+# SemiGlobalMathingImplementation
+detailed Algo will be updated soon
+
